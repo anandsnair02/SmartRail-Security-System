@@ -1,0 +1,8 @@
+opencv-python
+Pillow
+torch
+numpy
+pandas
+matplotlib
+face_recognition
+openpyxl
